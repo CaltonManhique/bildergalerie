@@ -27,9 +27,6 @@
                 </a>
             <?php endforeach; ?>
         </div>
-
-
-
     </main>
 </body>
 
